@@ -1,0 +1,44 @@
+.heading
+{
+	color:blue;
+	font-size: 40px;
+}
+
+.description
+{
+	width:500px;
+	color:#808080;
+	font-size: 20px;
+	padding: 50px 50px 50px 80px;
+	border-left-style: solid;
+	border-left-color: red;
+}
+
+.image {
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
+
+.chart {
+    width: 350px;
+    height: 350px;
+}
+
+.circ1 {
+    stroke: red; 
+    fill: none;
+    stroke-width: 10;
+}
+
+.circ2 {
+    stroke: red; 
+    fill: none;
+    stroke-width: 10;
+}
+
+.star{
+	fill:none;
+	stroke:blue;
+	stroke-width:5;
+}
